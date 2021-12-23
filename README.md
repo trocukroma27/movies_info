@@ -1,0 +1,1 @@
+Клієнтська частина проекту знаходиться в репозиторії [movies-info-client](https://github.com/trocukroma27/movies-info-client).
